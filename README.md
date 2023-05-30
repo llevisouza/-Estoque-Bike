@@ -34,7 +34,6 @@ Aqui está um exemplo de como utilizar o programa:
 
 ```
 Bem-vindo ao controle de estoque da Bicicletaria Levi Vieira de Sousa
-RU 4506310
 ------------------------------------------------------------
 
 Selecione uma opção:
@@ -90,9 +89,7 @@ Selecione uma opção:
 1) Cadastrar Peças
 2) Consultar Peças
 3) Remover Peças
-4)
-
- Sair
+4) Sair
 
 Digite a opção desejada: 4
 

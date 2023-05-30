@@ -1,5 +1,5 @@
 # Entrada com identificador
-print("Bem vindo ao controle de estoque da bicicletaria Levi Vieira de Sousa\nRU 4506310")
+print("Bem vindo ao controle de estoque da bicicletaria Levi Vieira de Sousa")
 print('-' * 60)
 
 # Função para cadastrar peça
